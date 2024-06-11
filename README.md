@@ -40,7 +40,7 @@ This image captures the essence of a reflective and heartfelt farewell, blending
 
 ### Imagens Geradas
 
-As imagens geradas durante a construção do artigo estão salvas na pasta [`imagens`]("C:\Users\Millena Coelho\OneDrive\Área de Trabalho\Artigo Python\imagens").
+As imagens geradas durante a construção do artigo estão salvas na pasta [`imagens`](./imagens).
 
 ## Link do Artigo
 
